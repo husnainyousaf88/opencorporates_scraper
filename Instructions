@@ -1,0 +1,8 @@
+1. Make sure you have installed python and pip.
+2. Open Command prompt and navigate to project folder.
+3. Place your file in the project. make sure you rename it to "input.xlsx"
+4. Run the following command to install required packages.
+	pip install -r requirements.txt
+5. Run the code.
+	python3 main.py
+6. output file "result.csv" will be generated after few minutes.
